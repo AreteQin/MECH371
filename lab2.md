@@ -2,5 +2,6 @@
 $$
 K_t = 0.025 V/(rad/s)
 $$ 
+
 as stated on page 11.
 
