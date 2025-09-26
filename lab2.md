@@ -5,3 +5,5 @@ $$
 
 as stated on page 11.
 
+## Connection for Exp.2
+![](Figures/Lab2Exp2.png)
