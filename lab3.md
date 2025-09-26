@@ -19,3 +19,6 @@ Kt = 0.026; %torque constant from lab 2
 
 Tm = 0.250; %time constant from appendix
 ```
+
+## Connection for Exp2
+![](Figures/Lab3Exp2.png)
