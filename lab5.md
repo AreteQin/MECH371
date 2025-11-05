@@ -1,3 +1,6 @@
+## Connections
+![](./Figures/lab5.png)
+
 ## Transfer Function of PID controller
 
 The transfer function on page 28 s not correct. It should be as below:
