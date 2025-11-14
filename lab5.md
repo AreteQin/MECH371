@@ -1,5 +1,5 @@
 ## Connections
-![](Figures/Lab5.png)
+![](Figures/lab5.png)
 
 ## Transfer Function of PID controller
 
