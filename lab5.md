@@ -19,5 +19,8 @@ $$
 G_c(s) = 0.1(1+1/0.2 s+0.3s)
 $$
 
+## Simulink Model
+![](Figures/lab5_simulink.png)
+
 ## EXP1 Q2 Q3 and Q4
 Only need to do Root-locus, step response for one example from 4 steps, so 4 screenshots for each question. 
