@@ -10,3 +10,17 @@ To download an
 ## SimuLink Model for EXP1
 To download an
 [Example](https://github.com/AreteQin/MECH371/blob/main/Others/lab6_exp1.slx)
+
+## For EXP.2 Q1
+```
+k = 0.1;
+Ti = 0.1;
+Td = 0.2;
+k2 = 0;
+H = tf([105.6*k*Td 105.6*k 105.6*k*Ti],[3 (900*k2+30+105.6*k*Td) 105.6*k 105.6*k*Ti]); 
+Hd = c2d(H,2,'foh');
+
+step(H,'-',Hd,'--')
+```
+
+![](Figures/Lab6_sub.png)
