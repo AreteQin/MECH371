@@ -1,2 +1,2 @@
 To download sample data for lab4:
-[Click here](others/lab6_exp2_2019a.slx)
+[Click here](Others/lab4_sample_data.csv)
