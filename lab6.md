@@ -24,3 +24,6 @@ step(H,'-',Hd,'--')
 ```
 
 ![](Figures/Lab6_sub.png)
+
+## Data for experiment 1:
+To download sample data for lab6: [Click here](Others/lab6exp1.csv)
